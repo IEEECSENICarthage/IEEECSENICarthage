@@ -46,14 +46,13 @@ We empower students with:
 
 ## 🎓 **Board 2024–2025 (Current)**
 
-| Role | Member | Social |
-|------|--------|--------|
-| **Chairperson** | John Doe | [GitHub](#) · [LinkedIn](#) |
-| **Vice Chair** | Jane Smith | [LinkedIn](#) |
-| **General Secretary** | Alex Johnson | [LinkedIn](#) |
-| **Webmaster** | Chris Lee | [GitHub](#) |
-| **Media Manager** | Sara Kim | Instagram |
-| **Treasurer** | Michael Brown | — |
+| Role | Member |
+|------|--------|
+| **Chairperson** | Talel Mejri | 
+| **Vice Chair** | Aya chokri | 
+| **General Secretary** | Chahed Requez | 
+| **Webmaster** | Maha Dridi | 
+| **Treasurer** | Aya Abbassi |
 
 ### ⭐ Achievements 2024–2025
 - Organized 10+ workshops and tech talks  
@@ -63,37 +62,7 @@ We empower students with:
 
 ---
 
-## 🎓 **Board 2025–2026 (Next Year Placeholder)**
 
-| Role | Member | Social |
-|------|--------|--------|
-| **Chairperson** | TBD | — |
-| **Vice Chair** | TBD | — |
-| **General Secretary** | TBD | — |
-| **Webmaster** | TBD | — |
-| **Media Manager** | TBD | — |
-| **Treasurer** | TBD | — |
-
-### ⭐ Planned Goals 2025–2026
-- Expand workshops and hackathons  
-- Launch new open-source initiatives  
-- Strengthen community collaboration  
-- Introduce mentorship programs  
-
----
-
-# 🗂️ Activity Highlights
-
-### 📌 Projects
-- Club Website  
-- AI Tools  
-- Competitions Management System  
-- Internal Training Platform  
-
-### 📸 Events Gallery  
-*(Insert event photos or Google Drive album links)*
-
----
 
 # 📊 GitHub Statistics
 
