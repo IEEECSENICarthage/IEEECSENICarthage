@@ -72,9 +72,9 @@ We empower students with:
 
   ### ⭐ Achievements 2025–2026
 - Winners of CEDACT 1.0 Non Technical Challenge  
-- Hosters of IEEE CS SYP TechX 2026   
-- Hosters of The first fully online Discord-based micro-mentoring experience
-- Mentor Chapter in the International CS Sister Program
+- Hoster of IEEE CS SYP TechX 2026   
+- Hoster of The first fully online Discord-based micro-mentoring experience in Tunisia and Region 8 
+- Mentor Chapter in the International Program (CS Sister Program)
 
 ---
 
