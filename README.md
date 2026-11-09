@@ -44,7 +44,7 @@ We empower students with:
 
 > This section is **permanent**. Each new board adds a new entry.
 
-## 🎓 **Board 2024–2025 (Current)**
+## 🎓 **Board 2024–2025 (Previous)**
 
 | Role | Member |
 |------|--------|
@@ -54,11 +54,27 @@ We empower students with:
 | **Webmaster** | Maha Dridi | 
 | **Treasurer** | Aya Abbassi |
 
+## 🎓 **Board 2025–2026 (Current)**
+
+| Role | Member |
+|------|--------|
+| **Chairperson** | Roua Ben Fraj | 
+| **Vice Chair** | Mohamed Ayoub Dababi | 
+| **General Secretary** | Eya Ben Hessine | 
+| **Webmaster** | Badis Hajji | 
+| **Treasurer** | Tasnim Saidi |
+
 ### ⭐ Achievements 2024–2025
 - Organized 10+ workshops and tech talks  
 - Hosted the National AI Hackathon  
 - Launched Club Portfolio Website  
-- Contributed to multiple open-source projects  
+- Contributed to multiple open-source projects
+
+  ### ⭐ Achievements 2025–2026
+- Winners of CEDACT 1.0 Non Technical Challenge  
+- Hosters of IEEE CS SYP TechX 2026   
+- Hosters of The first fully online Discord-based micro-mentoring experience
+- Mentor Chapter in the International CS Sister Program
 
 ---
 
